@@ -1,2 +1,2 @@
-# test-repo
+# ömer_okuşluk_YODA_OTONOM_YAZILIM
 denemek için olışturdum
